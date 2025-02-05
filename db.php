@@ -2,7 +2,7 @@
 $host = 'localhost';
 $db = 'budget_tracker';
 $user = 'root';
-$pass = '';
+$pass = 'Sarf6918#';
 
 $conn = new mysqli($host, $user, $pass, $db);
 
